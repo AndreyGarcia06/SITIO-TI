@@ -1,3 +1,17 @@
 h1 {
     color:#ff2156;
 }
+
+body {
+    background-color: #72708f;
+}
+
+#encabezado {
+    background-color: white;
+    height: 150px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 50%);
+}
