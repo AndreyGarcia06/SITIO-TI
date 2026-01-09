@@ -14,4 +14,60 @@ body {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 5px 5px rgba(0, 0, 0, 50%);
+    display: flex;
+}
+
+.logo {
+    background-color: rgb(20, 241, 149);
+    width: 10%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.menu {
+    background-color: rgb(15, 148, 172);
+    width: 75%;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    background-color: rgb(137, 184, 255);
+}
+
+.menu ul li {
+    margin: 0;
+    padding: 10px 20px;
+}
+
+.menu ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    color: #f2e5ff;
+    padding: 10px 20px;
+    background-color: rgb(199, 74, 168);
+}
+
+.redes {
+    background-color: rgb(199, 74, 168);
+    width: 15%;
+}
+
+.redes img {
+    max-width: 25%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: inline;
 }
