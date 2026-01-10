@@ -45,7 +45,7 @@ body {
 
 .menu ul li {
     margin: 0;
-    padding: 10px 20px;
+    padding: 10px 10px;
 }
 
 .menu ul li a {
@@ -55,8 +55,8 @@ body {
 
 .menu ul li a:hover {
     color: #f2e5ff;
-    padding: 10px 20px;
-    background-color: rgb(199, 74, 168);
+    padding: 10px 10px;
+    background-color: #72708f;
 }
 
 .redes {
