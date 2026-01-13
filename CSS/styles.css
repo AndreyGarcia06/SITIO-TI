@@ -71,3 +71,77 @@ body {
     align-items: center;
     display: inline;
 }
+
+.cuerpo1 {
+    background-color: rgb(255, 244, 91);
+    height: 230px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 50%);
+    padding: 20px;
+    display:flex;
+}
+
+.cuerpo2 {
+    background-color: rgb(34, 212, 102);
+    height: 230px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 50%);
+    padding: 20px;
+}
+
+.cuadro_izq {
+    background-color:rgb(68, 124, 207);
+    height: 200px;
+    width: 33.3%;
+    padding: 10px;
+}
+
+.cuadro_cen {
+    background-color:rgb(68, 124, 207);
+    height: 200px;
+    width: 33.3%;
+    padding: 10px;
+    margin-inline: 30px auto;
+    
+}
+
+.cuadro_der {
+    background-color:rgb(68, 124, 207);
+    height: 200px;
+    width: 33.3%;
+    padding: 10px;
+    margin-inline: 30px auto;
+}
+
+.abajo {
+    background-color:rgb(223, 64, 37);
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 50%);
+    display: flex;
+}
+
+.c1 {
+    background-color:rgb(68, 124, 207);
+    height: 180px;
+    width: 50%;
+    padding: 10px;
+}
+
+.c2 {
+    background-color:rgb(68, 124, 207);
+    height: 180px;
+    width: 50%;
+    padding: 10px;
+    margin-inline: 40px auto;
+}
