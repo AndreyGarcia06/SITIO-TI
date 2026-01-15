@@ -75,8 +75,8 @@ body {
 
 .cuerpo1 {
     background-color: rgb(255, 244, 91);
-    height: 230px;
-    width: 80%;
+    height: 270px;
+    width: 90%;
     margin: 0 auto;
     margin-top: auto;
     border-radius: 10px;
@@ -88,7 +88,7 @@ body {
 .cuerpo2 {
     background-color: rgb(34, 212, 102);
     height: 230px;
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     margin-top: 10px;
     border-radius: 10px;
@@ -120,10 +120,18 @@ body {
     margin-inline: 30px auto;
 }
 
+.cuadro4 {
+    background-color:rgb(68, 124, 207);
+    height: 200px;
+    width: 33.3%;
+    padding: 10px;
+    margin-inline: 30px auto;
+}
+
 .abajo {
     background-color:rgb(223, 64, 37);
-    height: 200px;
-    width: 80%;
+    height: 100px;
+    width: 100%;
     margin: 0 auto;
     margin-top: 10px;
     padding: 20px;
@@ -134,17 +142,17 @@ body {
 
 .c1 {
     background-color:rgb(68, 124, 207);
-    height: 180px;
-    width: 50%;
+    height: 80px;
     padding: 10px;
+    width: 50%;
 }
 
 .c2 {
     background-color:rgb(68, 124, 207);
-    height: 180px;
-    width: 50%;
+    height: 80px;
     padding: 10px;
-    margin-inline: 40px auto;
+    margin-left: 10px;
+    width: 50%;
 }
 
 #fondo {
