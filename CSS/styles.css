@@ -80,10 +80,10 @@ body {
 }
 
 .redes img {
-    max-width: 18%;
+    max-width: 20%;
     height: auto;
     display: inline-block;
-    margin-top: 36%;
+    margin-top: auto;
 }
 
 .cuerpo1 {
@@ -194,7 +194,7 @@ body {
 
 #fondo {
     background-color: white;
-    height: 600px;
+    height: 1000px;
     width: 80%;
     margin-top: 10px;
     margin: 0 auto;
@@ -202,6 +202,17 @@ body {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 50%);
     padding: 15px;
     display: block;
+}
+
+.cuerpo3 {
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(199, 111, 172);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 50%);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 50%)
 }
 
 .img1 {
@@ -272,6 +283,25 @@ body {
 
 p {
     margin: 0;
+}
+
+button {
+    background-color: rgb(99, 72, 109);
+    width: 170px;
+    height: 50px;
+    color: white;
+    border-radius: 10px;
+    margin-inline-start: 20px;
+    margin-top: 10px;
+    transition: transform 0.3s ease;
+    transform: scale(1);
+    border-color: transparent;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 50%);
+}
+
+button:hover {
+    background-color: rgb(163, 121, 180);
+    transform: scale(1.2);
 }
 
 @font-face {
